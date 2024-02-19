@@ -25,13 +25,6 @@
           Disabled
         </MDBNavbarItem>
       </MDBNavbarNav>
-      <!-- Search form -->
-      <form class="d-flex input-group w-auto">
-        <input type="search" class="form-control" placeholder="Type query" aria-label="Search" />
-        <MDBBtn outline="primary">
-          Search
-        </MDBBtn>
-      </form>
     </MDBCollapse>
   </MDBNavbar>
 </template>
